@@ -11,7 +11,7 @@ public class Main {
         }
 
         for(int i = 0; i < count; i++) {
-            System.out.print(friends[i] + 1);
+            System.out.print(friends[i] + 1 + " ");
         }
     }
 }
